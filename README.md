@@ -34,10 +34,4 @@ It integrates **React** for the frontend, **FastAPI** for the backend, and **Gem
 | **Uvicorn**              | Runs the FastAPI server asynchronously to handle multiple user requests efficiently.                      |
 | **MathJax**              | Properly formats and displays mathematical expressions in a clean, readable manner.                        |
 
-## Installation
-
-### Backend Setup
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/math-canvas-calculator.git
-   cd math-canvas-calculator
+##LINK TO ONLINE [DEPLOYED PROJECT](https://calc-fe.vercel.app/)
