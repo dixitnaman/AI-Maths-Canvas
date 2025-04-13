@@ -34,4 +34,4 @@ It integrates **React** for the frontend, **FastAPI** for the backend, and **Gem
 | **Uvicorn**              | Runs the FastAPI server asynchronously to handle multiple user requests efficiently.                      |
 | **MathJax**              | Properly formats and displays mathematical expressions in a clean, readable manner.                        |
 
-##LINK TO ONLINE [DEPLOYED PROJECT](https://calc-fe.vercel.app/)
+## LINK TO ONLINE [DEPLOYED PROJECT](https://calc-fe.vercel.app/)
